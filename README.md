@@ -13,4 +13,4 @@ Google Colab: Cloud-based development environment for data processing.
 Metric,Index Used,Methodology
 Home Value,ZHVI,"Represents the ""typical"" home value (35th-65th percentile), removing luxury outliers."
 
-Market Rent,ZORI,"Tracks the ""market-rate"" rent for repeat-units, ensuring a like-for-like comparison over time."
+Market Rent,ZORI,"Tracks the "market-rate" rent for repeat-units, ensuring a like-for-like comparison over time."
